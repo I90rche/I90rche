@@ -93,7 +93,7 @@ I came to development from healthcare — over two years as a medical coder befo
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
 
 ### AI & Agents
-![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![WebMCP](https://img.shields.io/badge/WebMCP-1F2937?style=flat)
 ![llms.txt](https://img.shields.io/badge/llms.txt-374151?style=flat)
 ![Agent Skills](https://img.shields.io/badge/Agent_Skills-4B5563?style=flat)
