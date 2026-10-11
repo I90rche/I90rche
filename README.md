@@ -24,12 +24,13 @@ I came to development from healthcare — over two years as a medical coder befo
 - 💼 Freelancing since Dec 2022 for Macedonian, German and US clients
 - 🌱 Perfect score graduate of Brainster Full Stack Academy
 - 🏆 Winning team at the biggest hackathon in Macedonia to that date
+- 🧩 Contributing back to the open-source tools I build with
 - 🌍 Macedonian (native), English (C2), Serbian-Croatian (B2), German (B1)
 - 📫 Reach me at **igor_t93@live.com**
 
 ## 🧭 Selected work
 
-16 live sites and platforms — dealership sites, hotels and restaurants, booking systems and an all-in-one business suite. Every one of these is in production.
+17 live sites and platforms — dealership sites, hotels and restaurants, booking systems and an all-in-one business suite. Every one of these is in production.
 
 | Project | What it is | Built with | Where |
 |---|---|---|---|
@@ -41,12 +42,13 @@ I came to development from healthcare — over two years as a medical coder befo
 | **[Metzger Toyota](https://www.toyota-metzger.de/)** | The largest of the dealership builds: bespoke vehicle management alongside the site, with filtered search across 165 cars and online test-drive and workshop booking. | PHP · Vue.js · Laravel · Inertia.js · Tailwind CSS | at KIMISUITE |
 
 <details>
-<summary><b>All 16 projects →</b></summary>
+<summary><b>All 17 projects →</b></summary>
 
 <br>
 
 | Project | What it is | Built with | Where |
 |---|---|---|---|
+| **[Delta M Freight](https://www.deltamfreight.com/)** | Dry van truckload carrier from Indiana running the 48 contiguous states — a static build with PHP form handlers, self-hosted fonts, no analytics and no tracking cookies. | Astro · PHP · SEO | via PNK WORKS |
 | **[Hotel Riviera](https://hotelriviera.mk/)** | Lakeside hotel in Ohrid where rooms and restaurant tables are reserved from the same search. | PHP · Tailwind CSS | at KIMISUITE |
 | **[TikTak Audio](https://tiktakaudio.com/)** | Voice-over studio for film and advertising, with a searchable voice bank spanning seven Balkan languages. | Laravel · Livewire · PHP · Tailwind CSS | at KIMISUITE |
 | **[Autohaus Schaeben](https://www.autohaus-schaeben.de/)** | Dealership site for a family firm trading since 1970, with shortlisting and side-by-side comparison. | PHP · Vue.js · Laravel · Inertia.js · MySQL | at KIMISUITE |
